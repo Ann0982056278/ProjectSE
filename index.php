@@ -10,12 +10,11 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <title>ระบบจองห้องประชุม</title>
     
-
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
-  <!-- Just an image -->
+  <!-- Just an image  -->
 
   <a class="navbar-brand" href="#">
     <img src="img/logo.png" width="30" height="30" alt="">
